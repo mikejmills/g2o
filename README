@@ -1,3 +1,5 @@
+This is an attempt to compile g2o on OS X without using -stdlib=libstdc++
+
 g2o - General Graph Optimization
 
 g2o is an open-source C++ framework for optimizing graph-based nonlinear error
