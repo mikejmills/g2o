@@ -31,7 +31,7 @@
 #ifdef _MSC_VER
 #include <unordered_set>
 #else
-#include <tr1/unordered_set>
+#include <boost/tr1/unordered_set.hpp>
 #endif
 
 #include "g2o/core/sparse_optimizer.h"

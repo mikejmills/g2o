@@ -27,7 +27,7 @@
 #include "tictoc.h"
 
 #include "timeutil.h"
-
+#include <stdlib.h>
 #include <map>
 #include <limits>
 #include <algorithm>

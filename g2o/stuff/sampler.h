@@ -38,7 +38,7 @@
 #ifdef _MSC_VER
 #include <random>
 #else
-#include <tr1/random>
+#include <boost/tr1/random.hpp>
 #endif
 
 #include "g2o_stuff_api.h"

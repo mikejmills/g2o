@@ -30,7 +30,7 @@
 #ifdef _MSC_VER
 #include <memory>
 #else
-#include <tr1/memory>
+#include <boost/tr1/memory.hpp>
 #endif
 #include <Eigen/Core>
 

@@ -28,7 +28,7 @@
 #ifdef _MSC_VER
 #include <random>
 #else
-#include <tr1/random>
+#include <boost/tr1/random.hpp>
 #endif
 #include <iostream>
 #include <stdint.h>

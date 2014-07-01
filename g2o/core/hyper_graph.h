@@ -38,7 +38,7 @@
 #ifdef _MSC_VER
 #include <unordered_map>
 #else
-#include <tr1/unordered_map>
+#include <boost/tr1/unordered_map.hpp>
 #endif
 
 #include "g2o_core_api.h"
